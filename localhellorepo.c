@@ -6,5 +6,6 @@
 int main (){
     printf("Hello, this was created on a local repository");
     printf("This was written through newfirstbranch (DROPDOWN) ");
+    printf("This was written through newfirstbranch (BUTTON) ");
     return 0;
 }
